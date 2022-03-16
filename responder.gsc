@@ -16,7 +16,7 @@ chatListener() {
 
 responses(message) {
     switch(message) {
-        case "!discord": return "discord link: ^1discord.com";
+        case "!discord": return "discord link: ^1dsc.gg/rawmeat";
         case "!rules": return "No rules, just behave...";
         default: return false;
     }
